@@ -1,5 +1,7 @@
 # Online Retail Exploratory Data Analysis with Python
 
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white) ![EDA](https://img.shields.io/badge/Project-EDA-1F6FEB) ![Domain](https://img.shields.io/badge/Domain-Retail%20Analytics-B8860B)
+
 ## Overview
 This project performs exploratory data analysis (EDA) on online retail transaction data to identify sales patterns, customer behavior, and product-level trends. The notebook is designed as a portfolio case study focused on practical business insights.
 
